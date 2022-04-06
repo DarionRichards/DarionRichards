@@ -23,29 +23,45 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <h1>🛠 Languages and Skills</h1>
 
-<h2>Languages :</h2>
+<table style="width:100%">
+    <tr>
+        <th style="text-align:center">Front End Skills:</th>
+        <th style="text-align:center">Back End Skills:</th>
+        <th style="text-align:center">Database Skills:</th>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Boot Strap" alt="Boot Strap" width="50" height="50"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" alt="Handlebars" width="50" height="50"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>
+        </td>
+    </tr>
+</table>
 
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-</div>
-
-<br>
-
-<h2>Front End Skills :</h2>
-
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Boot Strap" alt="Boot Strap" width="40" height="40"/>&nbsp;
-</div>
-
-<br>
-
-<h2>Back End Skills :</h2>
+<h3>Back End Skills :</h3>
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
@@ -54,7 +70,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br>
 
-<h2>Database Skills :</h2>
+<h3>Database Skills :</h3>
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize"  alt="Sequelize" width="40" height="40"/>&nbsp;
@@ -63,14 +79,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br>
 
-<h2>Query Languages :</h2>
+<h3>Query Languages :</h3>
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
 
-<h2>Version Control:</h2>
+<h3>Version Control:</h3>
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -78,7 +94,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br>
 
-<h2>Hosting Platforms:</h2>
+<h3>Hosting Platforms:</h3>
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
@@ -90,10 +106,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div align="center">
 
-<table>
+<table cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=DarionRichards&show_icons=true&theme=radical&hide_border=true"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=DarionRichards&show_icons=true&theme=rose_pine&hide_border=true&count_private=true"/>
         </td>
         <td>   
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarionRichards&theme=holi-theme&stroke=DD0000&fire=DD0000&hide_border=true"/>
@@ -101,7 +117,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarionRichards&theme=vision-friendly-dark&hide_border=true)](https://github.com/DarionRichards)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarionRichards&theme=vision-friendly-dark&hide_border=true&layout=compact)](https://github.com/DarionRichards)
 
 </div>
 
@@ -110,3 +126,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="center">
     <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" width="400" height="300"  />
 </p>
+
+<!-- <div>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+</div> -->
