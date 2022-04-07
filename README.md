@@ -21,6 +21,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🎓 Graduated with a First Degree in Cyber Security from the De Montfort University
 
+<br>
+
 <h1>🛠 Languages and Skills</h1>
 
 <table>
@@ -114,6 +116,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </tr>
 </table>
 
+<br>
+
 <h1>🔥 My Stats</h1>
 
 <div align="center">
@@ -129,6 +133,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </table>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarionRichards&theme=vision-friendly-dark&hide_border=true&layout=compact"/>
 </div>
+
+<br>
 
 <h1>💻 My Repositories</h1>
 
@@ -164,6 +170,25 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=book-search-backend&theme=rose_pine&hide_border=true"/>
     </a>
 
+</div>
+
+<br>
+
+<h1>👥 Contributed Repositories</h1>
+
+<div align="center">
+    <a href="https://github.com/andradag/private-live-auction-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andradag&repo=private-live-auction-client&theme=rose_pine&hide_border=true&show_owner=true"/>
+    </a>
+    <a href="https://github.com/andradag/private-live-auction-server">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andradag&repo=private-live-auction-server&theme=rose_pine&hide_border=true&show_owner=true"/>
+    </a>
+    <a href="https://github.com/luizfroes/fitness-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfroes&repo=fitness-app&theme=rose_pine&hide_border=true&show_owner=true"/>
+    </a>
+    <a href="https://github.com/AsmaaMusse/readers-revival">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsmaaMusse&repo=readers-revival&theme=rose_pine&hide_border=true&show_owner=true"/>
+    </a>
 </div>
 
 <!-- <div>
