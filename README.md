@@ -124,14 +124,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <table cellspacing="0" cellpadding="0">
         <tr>
             <td>
+            <a href="https://github.com/DarionRichards?tab=repositories">
                 <img src="https://github-readme-stats.vercel.app/api?username=DarionRichards&show_icons=true&theme=rose_pine&hide_border=true&count_private=true"/>
+            </a>
             </td>
-            <td>   
+            <td> 
+            <a href="https://github.com/DarionRichards?tab=repositories">  
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarionRichards&theme=holi-theme&stroke=DD0000&fire=DD0000&hide_border=true"/>
+            </a>
             </td>
         </tr>
     </table>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarionRichards&theme=vision-friendly-dark&hide_border=true&layout=compact"/>
+    <a href="https://github.com/DarionRichards?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarionRichards&theme=vision-friendly-dark&hide_border=true&layout=compact"/>
+    </a>
+                
 </div>
 
 <br>
