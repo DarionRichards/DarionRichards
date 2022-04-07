@@ -117,27 +117,33 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <h1>🔥 My Stats</h1>
 
 <div align="center">
-
-<table cellspacing="0" cellpadding="0">
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=DarionRichards&show_icons=true&theme=rose_pine&hide_border=true&count_private=true"/>
-        </td>
-        <td>   
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarionRichards&theme=holi-theme&stroke=DD0000&fire=DD0000&hide_border=true"/>
-        </td>
-    </tr>
-</table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarionRichards&theme=vision-friendly-dark&hide_border=true&layout=compact)](https://github.com/DarionRichards)
-
+    <table cellspacing="0" cellpadding="0">
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=DarionRichards&show_icons=true&theme=rose_pine&hide_border=true&count_private=true"/>
+            </td>
+            <td>   
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarionRichards&theme=holi-theme&stroke=DD0000&fire=DD0000&hide_border=true"/>
+            </td>
+        </tr>
+    </table>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarionRichards&theme=vision-friendly-dark&hide_border=true&layout=compact"/>
 </div>
 
----
+<h1>💻 My Repositories</h1>
 
-<p align="center">
-    <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" width="400" height="300"  />
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=weather-dashboard"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=week-day-planner"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=team-profile-generator"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=note-taker"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=employee-tracker"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=ecommerce-back-end"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=cms-blog-site"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=nosql-social-media-api"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=book-search-frontend"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarionRichards&repo=book-search-backend"/>
+</div>
 
 <!-- <div>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
